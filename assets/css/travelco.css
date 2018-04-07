@@ -14,15 +14,8 @@ body {
   text-align: center;
 }
 
-#content #main {
+#content #main, #about {
   width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#content #about {
-  width: 60%;
-  text-align: left;
   margin-left: auto;
   margin-right: auto;
 }
@@ -35,6 +28,12 @@ body {
 #loginMsg {
   margin-top: 15px;
   margin-bottom: -10px;
+}
+
+#resetForm {
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
 
 .footer {
