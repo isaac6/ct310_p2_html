@@ -1,0 +1,53 @@
+body {
+  background-image: url(../img/roosevelt-park.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+#content {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 5px;
+  color: white;
+  text-align: center;
+}
+
+#content #main {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content #about {
+  width: 60%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content #main img {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+#loginMsg {
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+
+.footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+}
+
+.dark-opac-bg {
+  background-color: rgba(53, 53, 53, 0.95);
+  border: 1px solid black;
+}
+
+.red {
+    color: #ed1725;
+}
